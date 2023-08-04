@@ -1,0 +1,1 @@
+run this pip install --no-cache-dir --upgrade -r requirements.txt
