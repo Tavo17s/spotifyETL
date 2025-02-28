@@ -1,4 +1,4 @@
 pandas==1.5.2
-spotipy==2.23.0
+spotipy==2.25.1
 pyscopg2==66.0.2
 SQLAlchemy==2.0.19
